@@ -184,17 +184,6 @@ Integrated iOS app with automatic alert and recording capabilities.
 
 ---
 
-### 🏅 Coding & Development Profiles
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-ng-6b6b74254)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chiuuung)
-
-</div>
-
----
-
 ### 🎯 Current Focus
 
 ```yaml
