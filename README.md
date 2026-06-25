@@ -1,33 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B46C1,7C3AED,4338CA&height=280&section=header&text=James%20Ng&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Full-Stack%20Developer" alt="Header Banner">
-</div>
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;YOLOv8+%26+Edge+AI+Specialist;Full-Stack+%26+Cloud+Engineer;Turning+Ideas+into+Production+Reality" alt="Typing SVG">
-  </a>
-</div>
-
-<div align="center">
-
-  ![Academic Badges](https://img.shields.io/badge/BEng_Computer_Engineering-HKU-8B5CF6?style=for-the-badge&logo=theuniversityofhongkong&logoColor=white)
-  ![Academic Badges](https://img.shields.io/badge/Associate_Engineering-HKU_SPACE-6D28D9?style=for-the-badge&logoColor=white)
-
-  ![Location](https://img.shields.io/badge/📍%20Hong%20Kong-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://jamesng.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-ng-6b6b74254)
-  [![Email](https://img.shields.io/badge/Email-D946EF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesngkk611@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamesng)
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=jamesng&color=7C3AED&style=for-the-badge&label=Profile+Views)
-  ![Followers](https://img.shields.io/github/followers/jamesng?color=8B5CF6&style=for-the-badge&logo=github&label=Followers)
-  ![Stars](https://img.shields.io/github/stars/jamesng?color=A78BFA&style=for-the-badge&logo=github&label=Total+Stars)
-
-</div>
-
----
-
 ### 👋 About Me
 
 Aspiring **Computer Engineer** and **AI/ML enthusiast** with a strong foundation in full-stack development, computer vision, and cloud technologies. Currently pursuing a Bachelor of Computer Engineering at **The University of Hong Kong** (expected 2026).
