@@ -195,42 +195,6 @@ Integrated iOS app with automatic alert and recording capabilities.
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=chiuuung&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=A5B4FC&icon_color=8B5CF6&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiuuung&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=A5B4FC)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiuuung&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6)
-
-</div>
-
----
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=chiuuung&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&rank=S,A,B)
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiuuung&theme=radical&hide_border=true&bg_color=0D1117)
-
----
-
-### 🐍 Contribution Snake
-
-![Snake Animation](https://raw.githubusercontent.com/chiuuung/chiuuung/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ### 🎯 Current Focus
 
 ```yaml
